@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sakib.womenchildcaredemo3">
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/appicon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity
+            android:name=".model.DuringPregCaring"
+            android:label="গর্ভকালীন সেবা"
+            android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar" />
+        <activity
+            android:name=".model.MotherIdealFood"
+            android:label="সুষম খাবার"
+            android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar" />
+        <activity
+            android:name=".model.SplashScreen"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".model.RegistrationWindow"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity
+            android:name=".model.DuringPregVaccine"
+            android:label="শিশুর টীকা"
+            android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar" />
+        <activity
+            android:name=".model.AfterPregCare"
+            android:label="গর্ভ পরবর্তী সেবা"
+            android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar" />
+        <activity android:name=".model.ChildCare"
+            android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar"
+            android:label="নব্জাতকের যত্ন"/>
+        <activity
+            android:name=".model.ContactChat"
+            android:label="সরাসরি যোগাযোগ"
+            android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar"></activity>
+    </application>
+
+</manifest>

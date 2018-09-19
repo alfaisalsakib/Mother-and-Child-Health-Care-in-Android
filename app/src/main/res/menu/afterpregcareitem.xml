@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/lackOfMilk"
+        android:title="দুধের ঘাটটি">
+    </item>
+
+    <item
+        android:id="@+id/increaseMilk"
+        android:title="মায়ের দুধ বৃদ্ধি">
+    </item>
+
+    <item
+        android:id="@+id/afterPregDep"
+        android:title="গর্ভ পরবর্তী বিযন্নতা">
+    </item>
+
+    <item
+        android:id="@+id/afterPregDepSym"
+        android:title="বিষণ্ণতার উপসর্গ">
+    </item>
+
+</menu>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/week1"
+        android:title="সপ্তাহ-১">
+    </item>
+
+    <item
+        android:id="@+id/week2"
+        android:title="সপ্তাহ-২">
+    </item>
+
+    <item
+        android:id="@+id/week3"
+        android:title="সপ্তাহ-৩">
+    </item>
+
+    <item
+        android:id="@+id/week4"
+        android:title="সপ্তাহ-৪">
+    </item>
+
+    <item
+        android:id="@+id/week5"
+        android:title="সপ্তাহ-৫">
+    </item>
+
+    <item
+        android:id="@+id/week6"
+        android:title="সপ্তাহ-৬">
+    </item>
+
+    <item
+        android:id="@+id/week7"
+        android:title="সপ্তাহ-৭">
+    </item>
+
+    <item
+        android:id="@+id/week8"
+        android:title="সপ্তাহ-৮">
+    </item>
+
+    <item
+        android:id="@+id/week9"
+        android:title="সপ্তাহ-৯">
+    </item>
+
+    <item
+        android:id="@+id/week10"
+        android:title="সপ্তাহ-১০">
+    </item>
+
+</menu>

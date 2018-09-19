@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="120dp"
+    android:background="#FFCC80
+">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="মায়ের খাবারের তালিকা"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        android:textColor="#0277BD"
+        android:layout_gravity="center_vertical" />
+
+</LinearLayout>

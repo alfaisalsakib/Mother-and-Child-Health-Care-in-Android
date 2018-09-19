@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/motherFood"
+        android:title="মায়ের খাবার">
+    </item>
+
+    <item
+        android:id="@+id/calcium"
+        android:title="ক্যালসিয়াম">
+    </item>
+
+    <item
+        android:id="@+id/iron"
+        android:title="আয়রন">
+    </item>
+
+    <item
+        android:id="@+id/vitaminA"
+        android:title="ভিটামিন এ">
+    </item>
+
+    <item
+        android:id="@+id/vitaminB"
+        android:title="ভিটামিন বি">
+    </item>
+
+</menu>
